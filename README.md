@@ -1,4 +1,4 @@
-# The Data 8 Jekyll textbook
+# The Data 8 UNG Testing textbook
 
 This repository holds a Jekyll-based version of the Data 8 textbook.
 
